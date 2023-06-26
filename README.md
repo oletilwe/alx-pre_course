@@ -1,2 +1,2 @@
- my first readme
-Japanese
+ my first readme jpns
+
