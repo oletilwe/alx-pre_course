@@ -1,1 +1,1 @@
-My edited  my first readme
+Japanese my first readme
